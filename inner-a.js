@@ -1,1 +1,1 @@
-var a = 'inner1234'
+var a = 'inner1'
